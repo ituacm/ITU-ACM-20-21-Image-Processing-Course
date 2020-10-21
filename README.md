@@ -1,7 +1,5 @@
 
-### Instructors
-
-**Your Name and Surname**
+### Instructor
 
 *Evren Çetinkaya #3 @I.T.U*
 
@@ -12,7 +10,7 @@
 1. Basic knowledge of Python.
 2. Some basic matrix operations.
 
-### Goal
+### Goals
 The goals about this course are learning basic Image Processing definitions and important OpenCV functions. Furthermore, recent applications used Image Processing operations are mentioned.
 
 ### Syllabus
