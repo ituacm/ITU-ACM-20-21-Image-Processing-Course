@@ -1,55 +1,46 @@
-[![](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)
 
 ### Instructors
 
 **Your Name and Surname**
 
-*Computer Engineering #4 @I.T.U*
+*Evren Çetinkaya #3 @I.T.U*
 
-[*LinkedIn*](https://www.linkedin.com/in/)
-
-**Your Name and Surname**
-
-*Computer Engineering #3 @I.T.U*
-
-[*LinkedIn*](https://www.linkedin.com/in/)
+[*LinkedIn*](https://www.linkedin.com/in/evren-%C3%A7etinkaya-ba1b00175/)
 
 
 ### Prerequisities
-1. Basic knowledge about any programming language.
-2. so on...
+1. Basic knowledge of Python.
+2. Some basic matrix operations.
 
 ### Goal
-
-goals about program...
+The goals about this course are learning basic Image Processing definitions and important OpenCV functions. Furthermore, recent applications used Image Processing operations are mentioned.
 
 ### Syllabus
 
 |  #Date |  #Topic  | #Description  |
 | :------------: | :------------: | :------------: |
-| 1 September 2019 | Basit javascript, React Native kurulumu ve react native eğitimi. | React Native kurulumunda yardım, basit seviyede ES6, ES7 anlatımı, React Native tarihçesi, çalışma prensibi ve basit giriş |
-| 1 September 2019  | React Native egitimine devam.  | React Native projelerinin genel hiyerarşisi, Componentler ve Kütüphaneler  |
-| 1 September 2019  |  Exchange Rate App baslangic.  | Projeye başlangıç. Kullanışlı Componentler ve API çağırmaları hakkında genel bilgiler  |
-| 1 September 2019  |  Exchange Rate App e navigation ekleme.  | React Navigation kütüphanesi hakkında genel bilgiler  |
-| 1 September 2019  |Exchange Rate App design.  | Component tasarımı hakkında genel bilgiler  |
-| 1 September 2019  |  React ve Flutter hakkinda kisa bilgiler. |  Play Store'a uygulama deploylama, Frontend için kullanılan React ve başka bir Cross-Platform olan Flutter hakkınfa kısa bilgiler |
+| 3 November 2020 | Görüntü İşleme ve OpenCV'ye giriş | Görüntü işleme ve OpenCV nedir, tarihçesi, nerelerde kullanılır? OpenCV Dokümantasyon ve kurulması gerekenler.|
+| 10 November 2019  | Basic Resim İşlemleri  | Resimler nedir, nelerden oluşur. Renk tanımları, piksel işlemleri, JPG, PNG, BMP resim formatları.  |
+| 17 November 2019  |  Video ve Kamera İşlemleri  | Video kavramı, videoyu resimler üzerine işlemleri, kod üzerinde video çalıştırma, anlık görüntü ve scale etme.  |
+| 24 November 2019  |  Filtreleme İşlemleri  | Renk filtreleme, bulanıklaştırma, Canny Edge, çeşitli maskeleme işlemleri, Erosion, Dilation  |
+| 1 December 2020  |Resim ve Video üzerinden Nesne Tespiti  | Resimde köşe bulma, resim üzerinde nesne tespit etme, resim üzerinden text okuma işlemleri.  |
+| 8 December 2020  |  Cascading (Haar Cascade) |  Teorisi, günümüze kadar gelen nesne tespit algoritmaları, XML kavramı ve üretimi, anlık olarak yüz, göz ve vücut tespiti, araç tespiti. |
+| 15 December 2020  | Görüntü İşleme ile Yapılan Çalışmalar |  Plaka tespiti, yüz tespiti ile ateş ölçümü, anlık olarak nesne tespiti, çatlak analizi, Görüntü işleme ve Yapay Zeka, Neural Networks, Keras-Pytorch-Tensorflow kütüphaneleri, Sürpriz Proje|
 
 
-<p align="center"><b>Lessons will be around 1:30 - 2 hours</b></p>
+<p align="center"><b>Lessons will be around 1:30 hours. 10 minutes break will be held.</b></p>
 
-(Lectures will be in ITU Faculty of Chemical and Metallurgical Engineering classroom D205 at every Thursday 17.30)
+(Lectures will be online on Zoom at every Tuesday 18.00)
 
 # Important Links
-
-You can add links here about your program...
+**https://docs.opencv.org/master/d9/df8/tutorial_root.html**
+**https://docs.opencv.org/master/d7/dbd/group__imgproc.html**
+**https://towardsdatascience.com/exploring-image-processing-techniques-opencv-4860006a243**
+**https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/**
 
 # Suggested Readings
-
-You can add readings here about your program...
-
-# Project
-Short project details. For more information visit the [Project file](/Project)
-
+**https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework**
+**https://towardsdatascience.com/understanding-face-detection-with-the-viola-jones-object-detection-framework-c55cc2a9da14**
 
 <p align="center">
   <a href="//ituacm.com" target="_blank">
