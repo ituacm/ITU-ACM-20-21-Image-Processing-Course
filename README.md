@@ -38,6 +38,7 @@ The goals about this course are learning basic Image Processing definitions and 
 
 # Suggested Readings
 **https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework**
+
 **https://towardsdatascience.com/understanding-face-detection-with-the-viola-jones-object-detection-framework-c55cc2a9da14**
 
 <p align="center">
